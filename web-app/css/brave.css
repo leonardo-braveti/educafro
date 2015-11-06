@@ -1,0 +1,118 @@
+
+.titulo_artigo{
+	font-size: 20px;
+	color: black;
+	font-family: "Verdana";
+	text-transform: uppercase;
+}
+.dados_post{
+	color: #2C5EC1;
+	font-size: 14px;
+	font-family: "Verdana";
+	font-weight: bold;
+}
+
+.post_data, .post_autor{
+	color: black;	
+}
+
+.texto_post{
+	color: #778899;
+	font-size: 14px;
+	font-family: "Verdana";
+}
+
+.format, input[type="text"],input[type="file"]{
+	font-family: "Verdana";
+	font-size: 14px;	
+}
+.buscador{
+	max-width: 50%;
+}
+
+.titulo_rodape{
+	font-size: 20px;
+	color: #2C5EC1;
+	font-family: "Verdana";
+	text-transform: uppercase;
+}
+
+.brave{
+	color: #2C5EC1;
+}
+
+.destaque{
+	color: #69F;
+	font-weight: bold;
+}
+#cadastrado{
+	text-align: center;
+	height: 21px;
+	color: #214897;
+	font-size: 18px;
+	font-family: "Verdana";
+}
+
+#mensagemerro{
+    text-align: center;
+    height: 21px;
+    color: #ff0000;
+    font-size: 18px;
+    font-family: "Verdana";
+}
+
+#mensagemok{
+    text-align: center;
+    color: green;
+    font-size: 14px;
+    font-family: "Verdana";
+    font-weight: bold;
+    position: relative;
+    margin-bottom: 4px;
+}
+
+.centralizar{
+	text-align: center;
+	font-family: "Verdana";
+}
+
+small {
+    font-family: "Verdana";
+    font-size: 10px;
+}
+.botoes{
+	width: 110px;
+	font-family: "Verdana";
+}
+
+#avatar{
+	max-width: 150px;
+	max-height: 150px;
+	min-width: 150px;
+	min-height: 150px;
+}
+.valor{
+	max-width: 80%;
+}
+
+table thead th, table tbody td{
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+aside{
+    position:relative;
+    top: -35px;
+}
+
+.mensagemSaldoNegativo{
+    color: red;
+    font-weight: bold;
+}
+
+.negrito{
+    font-weight: bold;
+}
